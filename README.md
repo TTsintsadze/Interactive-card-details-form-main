@@ -9,7 +9,9 @@
 
 This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Solution][solution-url] . [Live Page][live-page]
+-   [Solution][https://github.com/TTsintsadze/Interactive-card-details-form-main]
+-   [Live Page][https://interactive-card-details-form-main-two.vercel.app/]
+
 
 </div>
 
@@ -19,7 +21,6 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
     -   [Screenshots](#screenshots)
-    -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
@@ -65,11 +66,6 @@ Users should be able to:
             </td>
         </tr>
 </table>
-
-### Links
-
--   [Solution][solution-url]
--   [Live Page][live-page]
 
 ## My process
 
